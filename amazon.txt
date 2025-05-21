@@ -1,1 +1,6 @@
 0.0.0.0 atv-eu.amazon.com
+0.0.0.0 toggo.de
+0.0.0.0 atv-eu.amazon.com
+0.0.0.0 atv-ps-eu.amazon.de
+0.0.0.0 fls-eu.amazon.com
+0.0.0.0 *.amazon.*/gp/video/*
